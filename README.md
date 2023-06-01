@@ -25,6 +25,7 @@ print(result,unans)
 
 
 # OUTPUT :
+![traceroute](https://github.com/Gopika-9266/EX-7/assets/122762773/703b39d5-8784-4625-9adc-094fa980eafa)
 
 
 # RESULT :
